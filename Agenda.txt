@@ -8,3 +8,4 @@ none=222222
 miku=111
 ovejita=2233111
 ilu=33333
+enlase = 99888
