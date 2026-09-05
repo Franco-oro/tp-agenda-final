@@ -7,3 +7,4 @@ mati=1111111
 none=222222
 miku=111
 ilu=33333
+enlase = 99888
