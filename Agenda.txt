@@ -6,3 +6,4 @@ flora=777777
 mati=1111111
 none=222222
 miku=111
+ilu=33333
