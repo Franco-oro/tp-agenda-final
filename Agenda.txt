@@ -5,3 +5,4 @@ franco=121212
 flora=777777
 mati=1111111
 none=222222
+miku=111
